@@ -1,10 +1,12 @@
-Hi there!
-I'm a backend developer.
-Find me in [LinkedIn](https://www.linkedin.com/in/sergey-mankevich/) or write to me on [Telegram](https://t.me/srgmh)
+<h1 align="left">Hi there</h1>
+
+My name is Sergey and I'm a backend developer.
+
+Find me in ![LinkedIn](https://www.linkedin.com/in/sergey-mankevich/) or write to me on [Telegram](https://t.me/srgmh)
 
 ![](https://komarev.com/ghpvc/?username=srgmh)
 
-<h2 align="left">Languages and Tools</h2>
+<h3 align="left">Languages and Tools</h2>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
