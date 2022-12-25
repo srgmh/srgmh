@@ -14,7 +14,7 @@ Find me in [LinkedIn](https://www.linkedin.com/in/sergey-mankevich/) or write to
 
 Here is my projects:
 
-1. [FOOGGRAM.](https://github.com/srgmh/foodgram-project-react) This application for posting culinary recipes. Fully ready to be hosted on your server. Project deployed in a server. Just follow the [link](http://62.84.121.139/recipes) and see for yourself.
+1. [FOOGGRAM.](https://github.com/srgmh/foodgram-project-react) This application for posting culinary recipes. Fully ready to be hosted on your server. Project deployed in a server. Just follow the [link](http://62.84.121.139/recipes) you can see it for yourself.
 
 2. [Yatube](https://github.com/srgmh/yatube-project) social network. Here users can create posts, comment on them, subscribe to each other.
 You can find deployed Yatube-project in free cloud resource pythonanywhere.com: [Yatube](http://srgmh.pythonanywhere.com/)
