@@ -6,7 +6,7 @@ Find me in [LinkedIn](https://www.linkedin.com/in/sergey-mankevich/) or write to
 
 ![](https://komarev.com/ghpvc/?username=srgmh)
 
-<h3 align="left">Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
@@ -14,7 +14,7 @@ Find me in [LinkedIn](https://www.linkedin.com/in/sergey-mankevich/) or write to
 ![](https://img.shields.io/badge/Docker-02aaf7?style=for-the-badge&logo=Docker&logoColor=white)
 
 
-Here is my projects:
+<h2 align="left">Here is my projects:</h2>
 
 1. [FOOGGRAM.](https://github.com/srgmh/foodgram-project-react) This application for posting culinary recipes. Fully ready to be hosted on your server. Project deployed in a server. Just follow the [link](http://62.84.121.139/recipes) you can see it for yourself.
 
