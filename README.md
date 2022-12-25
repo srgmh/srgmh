@@ -2,7 +2,7 @@
 
 My name is Sergey and I'm a backend developer.
 
-Find me in ![LinkedIn](https://www.linkedin.com/in/sergey-mankevich/) or write to me on [Telegram](https://t.me/srgmh)
+Find me in [LinkedIn](https://www.linkedin.com/in/sergey-mankevich/) or write to me on [Telegram](https://t.me/srgmh)
 
 ![](https://komarev.com/ghpvc/?username=srgmh)
 
