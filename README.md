@@ -1,6 +1,6 @@
 Hello
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=srgmh)
 
 <!---
 - 👋 Hi, I’m @srgmh
